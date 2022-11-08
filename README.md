@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivanratemo
-- 👀 I’m interested in Full stack Web development
+- 👀 I’m interested in Full stack Web development and App Development
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on building websites
+- 💞️ I’m looking to collaborate on building websites and applications
 - 📫 How to reach me 
 -            -email : ivanratemo@gmail.com
 -            -Phone Number : +254720134705
